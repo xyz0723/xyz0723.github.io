@@ -1,0 +1,3 @@
+[submodule "themes/love"]
+	path = themes/love
+	url = git@github.com:jiehua1995/hexo-theme-love.git
